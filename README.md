@@ -50,8 +50,9 @@ python QR_code_generator.py
 📁 Path:
 
 Python-projects-and-Games/QR Code Generator/QR_code_generator.py
+```
 
-#### 📚 3. Student Library Management System:
+📚 3. Student Library Management System:
 
 A simple console-based library system.
 

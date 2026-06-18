@@ -52,7 +52,7 @@ python QR_code_generator.py
 Python-projects-and-Games/QR Code Generator/QR_code_generator.py
 ```
 
-📚 3. Student Library Management System:
+#### 📚 3. Student Library Management System:
 
 A simple console-based library system.
 
@@ -64,10 +64,13 @@ View available books
 ▶️ How to Run:
 python Library.py
 
+```bash
 📁 Path:
 
 Python-projects-and-Games/Student library/Library.py
-⚙️ Requirements
+```
+
+## ⚙️ Requirements
 
 Make sure you have Python installed:
 
@@ -77,28 +80,38 @@ Install required dependencies:
 
 pip install qrcode[pil]
 
-🚀 How to Use This Repository
-Clone the repo:
+## 🚀 How to Use This Repository
+### 1.Clone the repo:
+```bash
 git clone https://github.com/your-username/Python-projects-and-Games.git
-Go to project folder:
+```
+
+### 2.Go to project folder:
+```bash
 cd Python-projects-and-Games
-Run any project using Python:
+```
+
+### 3.Run any project using Python:
+```bash
 python filename.py
-🧠 Purpose of This Repo
+```
+
+#### 🧠 Purpose of This Repo
 Practice Python programming
 Improve logic building
 Learn project structuring
 Build portfolio for college/interview
-👨‍💻 Author
+
+#### 👨‍💻 Author
 
 Shaikh Mohammed Gaus
 BSc IT Student
 Learning Python, Web Development & AI
 
-⭐ Support
+#### ⭐ Support
 
 If you like this project, consider giving a ⭐ on GitHub!
 
-📌 Note
+#### 📌 Note
 
 This project is continuously updated. More games and tools will be added soon.
